@@ -1,0 +1,7 @@
+{
+  "name": "PromptMaster AI Studio",
+  "description": "Scan the web for the best AI prompts and generate images with professional controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
